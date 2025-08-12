@@ -12,12 +12,5 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data & artifacts
-data/*
-!data/README.md
-models/
-reports/figures/*
-!reports/figures/.keep
-
 # OS files
 .DS_Store

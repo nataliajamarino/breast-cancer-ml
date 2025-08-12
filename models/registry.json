@@ -1,0 +1,43 @@
+{
+  "logreg": {
+    "best_params": {
+      "clf__C": 0.1
+    },
+    "cv_best_recall": 0.960923076923077,
+    "model_path": "models/logreg_calibrated.joblib"
+  },
+  "svm_rbf": {
+    "best_params": {
+      "clf__C": 0.5,
+      "clf__gamma": "scale"
+    },
+    "cv_best_recall": 0.9532307692307693,
+    "model_path": "models/svm_rbf_calibrated.joblib"
+  },
+  "random_forest": {
+    "best_params": {
+      "clf__max_depth": null,
+      "clf__min_samples_leaf": 4
+    },
+    "cv_best_recall": 0.9298461538461538,
+    "model_path": "models/random_forest_calibrated.joblib"
+  },
+  "xgboost": {
+    "best_params": {
+      "clf__learning_rate": 0.03,
+      "clf__max_depth": 3,
+      "clf__n_estimators": 600
+    },
+    "cv_best_recall": 0.9532307692307693,
+    "model_path": "models/xgboost_calibrated.joblib"
+  },
+  "lightgbm": {
+    "best_params": {
+      "clf__learning_rate": 0.1,
+      "clf__max_depth": 5,
+      "clf__n_estimators": 1000
+    },
+    "cv_best_recall": 0.9535384615384614,
+    "model_path": "models/lightgbm_calibrated.joblib"
+  }
+}
