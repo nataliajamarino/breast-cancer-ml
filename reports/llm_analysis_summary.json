@@ -1,0 +1,20 @@
+{
+  "execution_date": "2025-10-13T21:08:48.083083",
+  "model_used": "ga_random_forest_standard",
+  "test_performance": {
+    "accuracy": 0.9649122807017544,
+    "precision": 1.0,
+    "recall": 0.9047619047619048,
+    "f1_score": 0.95
+  },
+  "top_features": {
+    "perimeter_worst": 0.14035440894043838,
+    "area_worst": 0.12288317368388842,
+    "concave points_worst": 0.09407262948655754,
+    "radius_worst": 0.09121430309185323,
+    "concave points_mean": 0.08009295847037373
+  },
+  "cases_explained": 3,
+  "patient_reports_generated": 3,
+  "llm_provider": "openai"
+}

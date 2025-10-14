@@ -1,0 +1,38 @@
+{
+  "P001": {
+    "patient_data": {
+      "case_id": "P001",
+      "age_group": "40-49 anos"
+    },
+    "prediction_results": {
+      "prediction": 0,
+      "probability": 0.15
+    },
+    "report": "**RELATÓRIO MÉDICO**\n\n**Resultado do Diagnóstico de Câncer de Mama**\n\nQuerida paciente,\n\nEspero que este relatório encontre você bem. Gostaria de compartilhar com você o resultado do seu diagnóstico de câncer de mama, que é benigno. Isso significa que não foi identificada a presença de células cancerígenas em sua mama. Esta é uma excelente notícia e motivo para ficar tranquila.\n\n**O que o diagnóstico significa:**\nO diagnóstico benigno indica que as alterações encontradas em sua mama não são cancerígenas. Isso significa que você não tem câncer de mama e não precisa se preocupar com tratamentos agressivos nesse momento.\n\n**Próximos passos recomendados:**\nApesar do diagnóstico benigno, é importante continuar com o acompanhamento médico regular. Recomenda-se realizar exames de mamografia periodicamente para garantir a saúde de suas mamas e detectar qualquer alteração precocemente.\n\n**Confiabilidade do teste:**\nO resultado do teste de diagnóstico possui uma confiança de 15.0%. Isso significa que, embora o resultado seja benigno, ainda existe uma pequena margem de erro. Por isso, é essencial seguir as orientações médicas e realizar os exames de acompanhamento conforme recomendado.\n\n**Mensagem de apoio:**\nEstamos felizes em compartilhar essa notícia positiva com você. Lembre-se de que estamos aqui para apoiá-la em todas as etapas do seu tratamento e acompanhamento médico. Não hesite em entrar em contato conosco se tiver alguma dúvida ou preocupação.\n\n**Importância do acompanhamento médico:**\nManter um acompanhamento médico regular é fundamental para garantir a sua saúde e bem-estar. Não deixe de agendar consultas de rotina e exames preventivos para cuidar da sua saúde de forma integral.\n\nEstamos ao seu dispor para qualquer esclarecimento adicional. Conte conosco para ajudá-la em todo o processo.\n\nCom cuidado e apoio,\n\n[Seu nome]\nAssistente Médico",
+    "generated_at": "2025-10-13T21:08:10.649125"
+  },
+  "P002": {
+    "patient_data": {
+      "case_id": "P002",
+      "age_group": "50-59 anos"
+    },
+    "prediction_results": {
+      "prediction": 1,
+      "probability": 0.89
+    },
+    "report": "**Relatório Médico**\n\n**Resultado do Diagnóstico de Câncer de Mama**\n\nPrezado(a) paciente,\n\nGostaria de compartilhar com você o resultado do seu diagnóstico de câncer de mama. O resultado indica que o câncer é maligno, com uma confiança de 89.0%. Entendo que receber essa notícia pode ser assustador, mas estou aqui para fornecer apoio e orientação durante todo o processo.\n\n**O que o diagnóstico significa:**\n\nUm diagnóstico de câncer de mama maligno significa que foram identificadas células cancerosas em sua mama. Isso requer atenção e cuidados específicos para garantir o melhor tratamento e resultados possíveis.\n\n**Próximos passos recomendados:**\n\nÉ fundamental que você agende uma consulta com um oncologista especializado em câncer de mama o mais rápido possível. O oncologista irá discutir as opções de tratamento disponíveis, como cirurgia, quimioterapia, radioterapia ou terapia hormonal, e ajudará a criar um plano de cuidados personalizado para você.\n\n**Confiabilidade do teste:**\n\nA confiança do teste de 89.0% indica a probabilidade de precisão do diagnóstico. É importante lembrar que nenhum teste é 100% preciso, e é por isso que é essencial seguir as recomendações médicas e realizar exames de acompanhamento regularmente.\n\n**Mensagem de apoio:**\n\nSaiba que você não está sozinho(a) nessa jornada. Estamos aqui para apoiá-lo(a) em cada etapa do tratamento e para responder a todas as suas dúvidas e preocupações. Mantenha-se positivo(a) e confie na equipe médica que está cuidando de você.\n\n**Importância do acompanhamento médico:**\n\nO acompanhamento médico regular é fundamental para monitorar sua saúde, avaliar a eficácia do tratamento e garantir o melhor resultado possível. Não hesite em entrar em contato conosco sempre que precisar de ajuda ou orientação.\n\nEstamos comprometidos em fornecer o melhor cuidado e suporte a você durante todo o processo. Lembre-se de que estamos aqui para ajudá-lo(a) a enfrentar essa situação com coragem e determinação.\n\nSe precisar de mais informações ou esclarecimentos, não hesite em entrar em contato conosco.\n\nAtenciosamente,\n\n[Seu nome]\nAssistente Médico",
+    "generated_at": "2025-10-13T21:08:15.064645"
+  },
+  "P003": {
+    "patient_data": {
+      "case_id": "P003",
+      "age_group": "50-59 anos"
+    },
+    "prediction_results": {
+      "prediction": 1,
+      "probability": 0.65
+    },
+    "report": "**Relatório Médico**\n\n**Resultado do Diagnóstico de Câncer de Mama:**\n\nQuerida paciente,\n\nGostaria de compartilhar com você o resultado do seu diagnóstico de câncer de mama. O resultado indica que o tumor é maligno, o que pode ser assustador de se ouvir. No entanto, é importante lembrar que estamos aqui para apoiá-la em cada passo do caminho.\n\n**O que o Diagnóstico Significa:**\n\nUm diagnóstico de câncer de mama maligno significa que as células cancerígenas foram identificadas em seu tecido mamário. Isso requer atenção e cuidados especiais para garantir o melhor tratamento possível.\n\n**Próximos Passos Recomendados:**\n\nÉ crucial que você agende uma consulta com um oncologista especializado em câncer de mama o mais rápido possível. Eles irão discutir as opções de tratamento disponíveis, como cirurgia, quimioterapia, radioterapia ou terapia hormonal, e criar um plano personalizado para você.\n\n**Confiabilidade do Teste:**\n\nO teste realizado para diagnosticar o câncer de mama possui uma confiança de 65.0%. Isso significa que há uma alta probabilidade de que o resultado seja preciso, mas é importante confirmar o diagnóstico com mais testes e avaliações médicas.\n\n**Mensagem de Apoio:**\n\nSaiba que você não está sozinha nessa jornada. Estamos aqui para apoiá-la emocionalmente e fornecer todo o suporte necessário durante o tratamento. Mantenha-se forte e confie na equipe médica que está cuidando de você.\n\n**Importância do Acompanhamento Médico:**\n\nPor fim, lembre-se da importância do acompanhamento médico regular. O tratamento do câncer de mama requer monitoramento constante e seguimento rigoroso das orientações médicas para garantir os melhores resultados possíveis.\n\nEstamos aqui para responder a todas as suas dúvidas e ajudá-la da melhor forma possível. Conte conosco para guiá-la nessa jornada de cuidados e cura.\n\nCom carinho e apoio,\n\n[Seu Nome]\nAssistente Médico",
+    "generated_at": "2025-10-13T21:08:18.945649"
+  }
+}

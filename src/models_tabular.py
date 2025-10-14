@@ -1,4 +1,3 @@
-
 from __future__ import annotations
 from typing import Dict, Any, Tuple
 from sklearn.pipeline import Pipeline
@@ -92,3 +91,53 @@ def build_pipelines(n_features: int) -> Dict[str, Tuple[Pipeline, Dict[str, Any]
     pipelines['lightgbm'] = (lgbm, lgbm_params)
 
     return pipelines
+
+def get_model_configs() -> Dict[str, Dict[str, Any]]:
+    """
+    Retorna configurações de modelos para otimização genética.
+    
+    Returns:
+        Dict com configurações de hiperparâmetros para cada modelo
+    """
+    configs = {
+        'random_forest': {
+            'n_estimators': (50, 500),
+            'max_depth': (3, 30),
+            'min_samples_split': (2, 20),
+            'min_samples_leaf': (1, 10),
+            'max_features': ['sqrt', 'log2', None],
+            'bootstrap': [True, False]
+        },
+        'xgboost': {
+            'n_estimators': (50, 500),
+            'max_depth': (3, 15),
+            'learning_rate': (0.01, 0.3),
+            'subsample': (0.6, 1.0),
+            'colsample_bytree': (0.6, 1.0),
+            'reg_alpha': (0.0, 1.0),
+            'reg_lambda': (0.0, 1.0)
+        },
+        'lightgbm': {
+            'n_estimators': (50, 500),
+            'max_depth': (3, 15),
+            'learning_rate': (0.01, 0.3),
+            'subsample': (0.6, 1.0),
+            'colsample_bytree': (0.6, 1.0),
+            'reg_alpha': (0.0, 1.0),
+            'reg_lambda': (0.0, 1.0),
+            'num_leaves': (10, 300)
+        },
+        'svm': {
+            'C': (0.1, 100.0),
+            'gamma': (0.001, 1.0),
+            'kernel': ['rbf', 'linear', 'poly'],
+            'degree': (2, 5)
+        },
+        'logistic': {
+            'C': (0.01, 100.0),
+            'penalty': ['l1', 'l2', 'elasticnet'],
+            'solver': ['liblinear', 'saga'],
+            'max_iter': (100, 1000)
+        }
+    }
+    return configs
