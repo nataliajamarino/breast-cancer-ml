@@ -10,6 +10,10 @@ Este projeto implementa um sistema completo de machine learning para diagnóstic
 - **Fase 2**: Otimização com algoritmos genéticos + explicações com LLMs
 - **Aplicação**: Ferramenta de apoio ao diagnóstico médico
 
+## 🔁 Fluxo da Phase 2
+
+![Fluxo Phase 2](docs/diagrams/phase2_diagram.png)
+
 ## 🚀 Início Rápido
 
 ### Instalação
